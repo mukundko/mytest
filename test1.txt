@@ -1,3 +1,6 @@
 Jai Shri Ram
+<<<<<<< HEAD
 Hare Krishna
 Hari Bol
+=======
+>>>>>>> parent of f3e3d72... Commit 2
